@@ -1,4 +1,4 @@
-# parse-args
+# args-pattern
 A Nodejs lib that arranges the arguments passed to a function based on pattern string
 
 ### Description
