@@ -34,7 +34,7 @@ testFn("john", 34)
 ### Example after using this library
 
 ```javascript
-var parseArgs = require("parse-args")
+var parseArgs = require("args-pattern")
 function testFn() {
     let [name, email, age, gender] = parseArgs(arguments, "[name] [, email] , age [, gender]", {
         args: ['vin', 'diesel@mail.com', 34, "female"]

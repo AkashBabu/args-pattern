@@ -1,5 +1,5 @@
 {
-  "name": "parse-args",
+  "name": "args-pattern",
   "version": "1.0.0",
   "description": "A Nodejs lib that arranges the arguments passed to a function based on pattern string",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkashBabu/parse-args.git"
+    "url": "git+https://github.com/AkashBabu/args-pattern.git"
   },
   "keywords": [
     "function",
@@ -28,7 +28,7 @@
   "author": "Akash Babu <001akashbabu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AkashBabu/parse-args/issues"
+    "url": "https://github.com/AkashBabu/args-pattern/issues"
   },
-  "homepage": "https://github.com/AkashBabu/parse-args#readme"
+  "homepage": "https://github.com/AkashBabu/args-pattern#readme"
 }
