@@ -1,0 +1,31 @@
+{
+  "name": "fargs-arrange",
+  "version": "0.1.0",
+  "description": "Arrange the arguments passed to a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "function",
+    "arguments",
+    "arrange",
+    "rearrange",
+    "regex",
+    "parser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashBabu/fargs-arrange.git"
+  },
+  "author": "Akash Babu <001akashbabu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkashBabu/fargs-arrange/issues"
+  },
+  "homepage": "https://github.com/AkashBabu/fargs-arrange#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
